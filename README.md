@@ -19,3 +19,9 @@ Key Features
    Batch Size: 64
    Epochs: 200
    Hardware: NVIDIA Tesla P100 GPU
+   
+Input-Output Comparison:
+
+
+<img width="1512" height="771" alt="Output comparison" src="https://github.com/user-attachments/assets/89c6b2f1-2014-490d-b0a5-4f5748528517" />
+
